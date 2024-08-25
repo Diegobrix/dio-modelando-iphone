@@ -1,6 +1,7 @@
 # dio-modelando-iphone
 Desafio de projeto para a trilha de java básico - dio
 
+```mermaid
 ---
 title: Iphone
 ---
@@ -32,4 +33,4 @@ classDiagram
         +adicionarNovaAba(url: String) void
         +atualizarPagina(url: String) void
     }
-
+```
